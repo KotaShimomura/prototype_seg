@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+main_train-Copy1.ipynb
 
 # C extensions
 *.so
